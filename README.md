@@ -13,3 +13,7 @@ This plugin adds option to enable header image on shop page of a website that is
 2. Choose and upload an image from your drive to **Leto WC Header** > **Shop page**.
 
 **P.S.** Ideal header image size for Leto theme is 1920px x 800px.
+
+## License
+
+GPL-2.0+
