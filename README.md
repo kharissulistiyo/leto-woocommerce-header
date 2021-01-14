@@ -1,5 +1,5 @@
 # Leto WooCommerce Header
-This plugin adds option to enable header image on shop page of a website that is runnig Leto theme.
+This plugin adds option to enable header image on shop page of a website that is runnig [Leto theme](https://wordpress.org/themes/leto/).
 
 ## Installation
 
